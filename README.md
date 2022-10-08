@@ -50,6 +50,11 @@ Learning Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kwamecody&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=kwamecody)
 
+---
+### 🛠️: Most Used Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwamecody&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
