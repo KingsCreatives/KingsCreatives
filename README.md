@@ -45,6 +45,11 @@ Learning Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40"/>&nbsp; 
 </div>
 
+---
+
+### :fire: My Stats :
+
+
 
 
 
