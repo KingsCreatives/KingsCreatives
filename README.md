@@ -21,5 +21,19 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+Learning Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m working on small projects from Freecodecamp and The Odin Project.
+- :zap: In my free time, I solve problems on Hankerank and read tech  based articles.
+- :mailbox:You can reach me on: kwamecody@gmail.com.
+- 📱:Contact me on Whatsapp: +233 241 73 69 64.
+
+
 
 
