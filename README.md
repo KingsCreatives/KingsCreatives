@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/shabi_codes/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instgram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Sam_King_Amoah">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
