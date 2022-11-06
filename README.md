@@ -32,7 +32,7 @@ Learning Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :telescope: I’m working on small projects from Freecodecamp and The Odin Project.
 - :zap: In my free time, I solve problems on Hankerank and read tech  based articles.
 - :mailbox:You can reach me on: kwamecody@gmail.com.
-- 📱:Contact me on Whatsapp: +233 241 73 69 64.
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
