@@ -28,7 +28,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am an  aspiring software engineer who is passionate about learning and developing new skills. I am always looking for new challenges and opportunities to grow my skills.  I am a hard worker and I am always willing to learn new things. I am confident that I can make a valuable contribution to any team. I am excited to see what the future holds and I am eager to continue learning and growing as a software engineer.
+I am a software engineer who is passionate about learning and developing new skills. I am always looking for new challenges and opportunities to grow my skills. I am confident that I can make a valuable contribution to any team. I am excited to see what the future holds and I am eager to continue learning and growing as a software engineer.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
