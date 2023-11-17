@@ -1,7 +1,7 @@
 ![Kingsford](https://github.com/Kwamecody/Kwamecody/assets/111431959/a0ce2268-3e78-4d19-863e-14c823aee6d9)
 
 <p>
-As a Software Engineer, I leverage my background in Accounting and Business Administration to harness the transformative power of technology, driving positive change and innovation.
+Software Engineer at @100Devs
 </p>
 
 ## Connect
