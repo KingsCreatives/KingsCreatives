@@ -1,7 +1,7 @@
 ![Kingsford](https://github.com/Kwamecody/Kwamecody/assets/111431959/a0ce2268-3e78-4d19-863e-14c823aee6d9)
 
 # 💫 About Me:
-Hi there, I'm Kingsford, a Full-Stack Web Developer with a unique background in accounting and financial operations. My journey has equipped me with a strategic mindset and a keen eye for detail, which I now apply to software development.<br><br>As a dedicated student in the ALX program, I'm currently focused on building robust and scalable solutions. Explore my projects below, and let's connect!
+Hi there, I'm Kingsford, a Full-Stack Web Developer with a unique background in accounting and financial operations. My journey has equipped me with a strategic mindset and a keen eye for detail, which I now apply to software development.<br><br>I'm currently focused on building robust and scalable solutions. Explore my projects below, and let's connect!
 
 
 ## 🌐 Socials:
